@@ -32,7 +32,7 @@
 	}
 	.header-top-area {
 		position: relative;
-		left: 0px;
+		right: 0px;
 	}
 	.analysis-progrebar-ctn {
 		margin-top: 0px;
@@ -146,6 +146,7 @@
 	}
 	.all-content-wrapper {
 		margin-left: 0px;
+		width: 100vw;
 	}
 	.mobile-menu-area{
 		display:block;
@@ -178,7 +179,7 @@
 	}
 	.header-top-area {
 		position: relative;
-		left: 0px;
+		right: 0px;
 	}
 	.analysis-progrebar-ctn {
 		margin-top: 0px !important;
@@ -458,7 +459,7 @@
 	}
 	.header-top-area {
 		position: relative;
-		left: 0px;
+		right: 0px;
 	}
 	.analysis-progrebar-ctn {
 		margin-top: 0px;
