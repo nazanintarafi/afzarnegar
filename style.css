@@ -448,7 +448,7 @@ body {}
    right:-134px;
 }
 .header-right-info ul.header-right-menu li .author-log{
-   right:-2px;
+   right:-70px;
 }
 .header-right-info ul.header-right-menu li.open .author-message-top, .header-right-info ul.header-right-menu li.open .notification-author, .header-right-info ul.header-right-menu li.open .author-log{
    opacity:1;
@@ -601,7 +601,7 @@ ul.message-menu li .message-content p, ul.notification-menu li .notification-con
 .header-right-info ul.header-right-menu li .admintab-wrap.menu-setting-wrap.dropdown-menu {
     position: absolute;
     top: 170%;
-    right: -358px;
+    right: -357px;
     width: 400px;
 	box-shadow: 0px 2px 3px rgba(0,0,0,.175);
 	padding: 20px;
@@ -784,6 +784,9 @@ ul.setting-panel-list li{
 .onoffswitch-checkbox:checked + .onoffswitch-label .onoffswitch-switch {
     left: 0;
 }
+.header-right-info{
+    float:left;
+}
 .header-top-menu .navbar-nav>li .dropdown-menu, .header-right-info ul.header-right-menu li .author-message-top, .header-right-info ul.header-right-menu li .notification-author, .header-right-info ul.header-right-menu li .author-log, .header-right-info ul.header-right-menu li .admintab-wrap.menu-setting-wrap.menu-setting-wrap-bg.dropdown-menu {
     background: #e12503;
 }
@@ -871,11 +874,14 @@ ul.setting-panel-list li{
 .breadcome-heading .form-control:focus {
     border: 1px solid #006DF0;
 }
+.breadcome-heading{
+    float: right;
+}
 ul.breadcome-menu {
     padding-top: 8px;
 }
 ul.breadcome-menu {
-    text-align: right;
+    text-align: left;
 }
 ul.breadcome-menu li {
     font-size: 14px;
