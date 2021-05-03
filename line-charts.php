@@ -101,8 +101,8 @@
                     <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
                         <div class="charts-single-pro responsive-mg-b-30">
                             <div class="alert-title">
-                                <h2>Basic Line Chart</h2>
-                                <p>A bar chart provides a way of showing data values. It is sometimes used to show trend data. we create a bar chart for a single dataset and render that in our page.</p>
+                                <h2>نمودار میله ای</h2>
+                                <p>نمودار میله ای راهی برای نشان دادن مقادیر داده ارائه می دهد. گاهی اوقات برای نشان دادن داده های روند استفاده می شود. ما یک نمودار میله ای برای یک مجموعه داده ایجاد می کنیم و آن را در صفحه خود ارائه می دهیم.</p>
                             </div>
                             <div id="basic-chart">
                                 <canvas id="basiclinechart"></canvas>
@@ -112,8 +112,8 @@
                     <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
                         <div class="charts-single-pro">
                             <div class="alert-title">
-                                <h2>Line Chart Multi Axis</h2>
-                                <p>A bar chart provides a way of showing data values. It is sometimes used to show trend data. we create a bar chart for a single dataset and render that in our page.</p>
+                                <h2>نمودار خطی چند محوری</h2>
+                                <p>نمودار میله ای راهی برای نشان دادن مقادیر داده ارائه می دهد. گاهی اوقات برای نشان دادن داده های روند استفاده می شود. ما یک نمودار میله ای برای یک مجموعه داده ایجاد می کنیم و آن را در صفحه خود ارائه می دهیم.</p>
                             </div>
                             <div id="axis-chart">
                                 <canvas id="linechartmultiaxis"></canvas>

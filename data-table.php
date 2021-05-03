@@ -112,7 +112,7 @@
                         <div class="sparkline13-list">
                             <div class="sparkline13-hd">
                                 <div class="main-sparkline13-hd">
-                                    <h1>Projects <span class="table-project-n">Data</span> Table</h1>
+                                    <h1>جدول <span class="table-project-n">داده های</span> پروژه</h1>
                                 </div>
                             </div>
                             <div class="sparkline13-graph">
